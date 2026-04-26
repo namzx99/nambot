@@ -1,0 +1,4 @@
+# Di CMD lokal, buat file .gitignore
+echo "node_modules/" > .gitignore
+echo "auth/" >> .gitignore
+echo ".env" >> .gitignore
