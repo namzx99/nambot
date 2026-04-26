@@ -1,1 +1,1 @@
-# nambot
+# namzbot
